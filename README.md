@@ -1,6 +1,4 @@
-# GitReady 2.0 - Website BNCC
-
-![Visualisasi Project](https://via.placeholder.com/800x400?text=Screenshot+Website+BNCC)
+# GitReady 2.0 - Website
 
 ## Tech Stack
 * **HTML5** - Struktur dasar halaman website
