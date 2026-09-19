@@ -2,9 +2,6 @@
 
 ![Visualisasi Project](https://via.placeholder.com/800x400?text=Screenshot+Website+BNCC)
 
-## Visualisasi
-* **Demo / Live Site:** [Link Demo Jika Ada](https://github.com)
-
 ## Tech Stack
 * **HTML5** - Struktur dasar halaman website
 * **CSS3** - Styling dan penataan tata letak
